@@ -1,2 +1,2 @@
 # JS-Fundamentals
-SoftUni / JS Core Module - 1st Course 
+SoftUni / JS Core Module
